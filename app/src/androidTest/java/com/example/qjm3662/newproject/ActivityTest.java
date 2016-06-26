@@ -11,3 +11,7 @@ public class ActivityTest extends ActivityUnitTestCase{
     }
 
 }
+
+/**
+* I'm learning how to use the git!!!
+*/
